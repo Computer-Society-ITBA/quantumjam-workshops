@@ -12,6 +12,8 @@ Cuatro clases con ejercicios en Qiskit, dos notebooks de soluciones y dos anexos
 | `Clase_1,_Parte_2_Computación_Cuántica.ipynb` | Fundamentos (continuación) |
 | `Clase_2,_Parte_1_Computación_Cuántica.ipynb` | Circuitos cuánticos |
 | `Clase_2,_Parte_2_Computación_Cuántica.ipynb` | Ejecución en hardware real |
+| `Clase_3_Computación_Cuántica.ipynb` | Algoritmos y comunicaciones (1) |
+| `Clase_3,_Parte_Extra_Computación_Cuántica.ipynb` | Material extra clase 3 |
 | `Soluciones_Clase_1.ipynb` | Soluciones de la clase 1 |
 | `Soluciones_Clase_2.ipynb` | Soluciones de la clase 2 |
 
