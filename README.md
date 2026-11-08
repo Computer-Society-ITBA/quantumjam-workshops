@@ -16,8 +16,11 @@ Cuatro clases con ejercicios en Qiskit, dos notebooks de soluciones y dos anexos
 | `Clase_3,_Parte_Extra_Computación_Cuántica.ipynb` | Material extra clase 3 |
 | `Clase_4_Computación_Cuántica.ipynb` | Algoritmos y comunicaciones (2) |
 | `Clase_4,_Parte_Extra_Computación_Cuántica.ipynb` | Material extra clase 4 |
+| `Química_Cuántica,_Parte_1.ipynb` | Material extra de química cuántica (parte 1) |
+| `Química_Cuántica,_Parte_2.ipynb` | Material extra de química cuántica (parte 2) |
 | `Soluciones_Clase_1.ipynb` | Soluciones de la clase 1 |
 | `Soluciones_Clase_2.ipynb` | Soluciones de la clase 2 |
+| `Soluciones_Química_Cuántica.ipynb` | Soluciones del material de química cuántica |
 
 ## Cómo correr los notebooks
 
